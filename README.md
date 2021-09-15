@@ -2,7 +2,7 @@
 
 - 🔭 **Atualmente trabalho como:** Desenvolvedor full stack php;
 - 👨‍🎓 **Cursando:** Tecnologia em análise e desenvolvimento de sistemas;
-- 🌱 **Aprendendo:** Spring boot, Java, Angular;
+- 🌱 **Aprendendo:** Spring boot, Java, Angular, Apex;
 
 <div>
   <a href="https://github.com/wesleyrodriguess">
