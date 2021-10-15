@@ -1,6 +1,6 @@
 ## Olá, eu sou o Wesley 👋
 
-- 🔭 **Atualmente trabalho como:** Desenvolvedor full stack php;
+- 🔭 **Atualmente trabalho como:** Desenvolvedor Salesforce;
 - 👨‍🎓 **Cursando:** Tecnologia em análise e desenvolvimento de sistemas;
 - 🌱 **Aprendendo:** Spring boot, Java, Angular, Apex;
 
